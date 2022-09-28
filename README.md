@@ -4,7 +4,7 @@
   🌐 <a href="https://www.linkedin.com/in/viano-arcery/" target="_blank">in/viano-arcery</a>
   📧 <a href="mailto:VNA818@gmail.com" target="_blank">VNA818@gmail.com</a>
   📧 <a href="mailto:arcerv@rpi.edu" target="_blank">arcerv@rpi.edu</a>
-  📄 <a href="mailto:arcerv@rpi.edu" target="_blank">Resume</a>
+  📄 <a href="https://github.com/VNA818/VNA818/blob/main/resume-9-26.pdf" target="_blank">Resume</a>
 </p>
 
 ### 👋 Welcome to my Github profile!
