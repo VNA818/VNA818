@@ -36,9 +36,9 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 
 ### 🏢 Work
 
-I am currently a Software Developer for the [Rensselaer Union](https://union.rpi.edu/)
+I am currently a Software Developer for the [Rensselaer Union](https://union.rpi.edu/).
 
-I have previously designed developed the website for [The Black Cell Group](https://blackcellgroup.com/)
+I have previously designed developed the website for [The Black Cell Group](https://blackcellgroup.com/).
 
 ### 👨‍💻 Projects
 
