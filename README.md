@@ -45,8 +45,8 @@ I have previously designed developed the website for [The Black Cell Group](http
 #### Currently I am working on...
 
 - My [personal website](https://vna818.com) and server
-- React VN engine *coming soon...*
 - [Overlord](https://github.com/jwgit9/Overlord-Bot) Discord Bot
+- React VN engine *coming soon...*
 
 #### Previously I have worked on...
 
