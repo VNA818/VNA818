@@ -83,3 +83,5 @@ primarily in Python and Typescript.
 **[Mips Processor in C](https://github.com/Comp-org-group/project)**
 
 > Created for a Computer Organization course. A full gate-level circuit representing the datapath for a reduced, but still Turing complete, MIPS ISA in C. Part of a team of five.
+
+*To see more visit [@VNA818-RPI](https://github.com/VNA818-RPI)*
