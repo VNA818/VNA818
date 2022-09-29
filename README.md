@@ -13,7 +13,7 @@ I am a Junior pursuing a Bacelor's degree in [Information Technology and Web Sci
 
 I looking for opportunites in IT, web, or software development this Spring and Summer 2023.
 
-In my free time I enjoy Cycling, graphic design, photography, and games.
+In my free time I enjoy cycling, graphic design, photography, and games.
 
 ### ❓ About
 
@@ -21,6 +21,7 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 
 **I have skills in**
 
+- Javascript
 - Typescript
 - Web frameworks
   - React
@@ -38,7 +39,16 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 
 I am currently a Software Developer for the [Rensselaer Union](https://union.rpi.edu/).
 
+> Work with a team of other students to develop applications/features to improve the
+Union's suite of software tools. Working with front-end and back-end web technologies
+such as React and Django. Collaborate with student government and administration office 
+staff to learn about business requirements.
+
 I have previously designed developed the website for [The Black Cell Group](https://blackcellgroup.com/).
+
+> Designed and developed the website for the defense and cybersecurity consulting 
+company, The Black Cell Group. Website is being developed using WordPress on Linux 
+cPanel hosting.
 
 ### 👨‍💻 Projects
 
