@@ -11,7 +11,7 @@
 
 I am a Junior pursuing a Bacelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
 
-I looking for opportunites in IT, web, or software development this Spring and Summer 2023.
+I am looking for opportunities in IT, web, or software development this Spring and Summer 2023.
 
 In my free time I enjoy cycling, graphic design, photography, and games.
 
