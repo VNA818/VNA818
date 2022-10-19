@@ -1,10 +1,11 @@
 <h1 align="center">Viano Arcery</h1>
 
 <p align="center">
-  🌐 <a href="https://www.linkedin.com/in/viano-arcery/" target="_blank">in/viano-arcery</a>
+  👨🏽‍🦱 <a href="https://www.linkedin.com/in/viano-arcery/" target="_blank">in/viano-arcery</a>
   📧 <a href="mailto:VNA818@gmail.com" target="_blank">VNA818@gmail.com</a>
   📧 <a href="mailto:arcerv@rpi.edu" target="_blank">arcerv@rpi.edu</a>
   📄 <a href="https://github.com/VNA818/VNA818/blob/main/resume-9-26.pdf" target="_blank">Resume</a>
+  🌐 <a href="https://github.com/VNA818-RPI/">School Github</a>
 </p>
 
 ### 👋 Welcome to my Github profile!
@@ -93,5 +94,3 @@ primarily in Python and Typescript.
 **[Mips Processor in C](https://github.com/Comp-org-group/project)**
 
 > Created for a Computer Organization course. A full gate-level circuit representing the datapath for a reduced, but still Turing complete, MIPS ISA in C. Part of a team of five.
-
-*To see more visit [@VNA818-RPI](https://github.com/VNA818-RPI)*
