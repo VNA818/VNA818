@@ -32,6 +32,7 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 - C
 - PHP
 - Docker
+  - Swarm
 - Databases
   - MySQL
   - MongoDB
