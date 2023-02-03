@@ -10,7 +10,7 @@
 
 ### 👋 Welcome to my Github profile!
 
-I am a Junior pursuing a Bacelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
+I am a Junior pursuing a Bachelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
 
 I am looking for opportunities in IT, web, or software development this Spring and Summer 2023.
 
