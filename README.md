@@ -10,15 +10,15 @@
 
 ### 👋 Welcome to my Github profile!
 
-I am a Junior pursuing a Bachelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
+I am a Senior pursuing a Bachelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
 
-I am looking for opportunities in IT, web, or software development this Spring and Summer 2023.
+I am looking for opportunities in frontend or backend software development after my graduation in spring of 2024.
 
 In my free time I enjoy cycling, graphic design, photography, and games.
 
 ### ❓ About
 
-I specialize in Front end and Full Stack web development, I am most proficient in JavaScript.
+I specialize in front end development and am most proficient in Javascript specifically modern web frameworks such as React.
 
 **I have skills in**
 
@@ -26,25 +26,33 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 - Typescript
 - Web frameworks
   - React
+  - React Native
   - Angular
 - Python
   - Django
 - C
-- PHP
 - Docker
   - Swarm
 - Databases
-  - MySQL
+  - SQL
   - MongoDB
 
 ### 🏢 Work
 
-I am currently a Software Developer for the [Rensselaer Union](https://union.rpi.edu/).
+I am currently working as a frontend software engineer for [Agoro](https://www.linkedin.com/company/agoro-learning?trk=public_profile_topcard-current-company)
 
-> Work with a team of other students to develop applications/features to improve the
+> Designed and developing the frontend for the Agoro Unigrader, an all-purpose, automated grading solution. Created comprehensive designs using Figma and was the sole developer for the web application developed using React.
+
+I am also currently the lead software developer for the [Rensselaer Union](https://www.linkedin.com/company/rensselaer-union/mycompany/)
+
+> At the Resnsselaer Union I lead a team of students in developing applications/features to improve the
 Union's suite of software tools. Working with front-end and back-end web technologies
 such as React and Django. Collaborate with student government and administration office 
-staff to learn about business requirements.
+staff to learn about business requirements. Manage Union projects such as Club Management System, and the Union website. Interview and hire new candidates.
+
+I am also working on developing a mobile application for [The Rajput Association of North America](https://www.rajputra.org/)
+
+> Developing a mobile application for the RANA website using React Native. 
 
 I have previously designed developed the website for [The Black Cell Group](https://blackcellgroup.com/).
 
@@ -56,9 +64,7 @@ cPanel hosting.
 
 #### Currently I am working on...
 
-- My [personal website](https://vna818.com) and server
-- [Overlord](https://github.com/jwgit9/Overlord-Bot) Discord Bot
-- React VN engine *coming soon...*
+- [md-to-webpage](https://github.com/VNA818/md-to-webpage)
 
 #### Previously I have worked on...
 
@@ -80,11 +86,11 @@ cPanel hosting.
 
 > Created for a Web Science Systems course, Pokemon Battles is an online Pokemon Battling game complete with Pokemon teams, friends, online multiplayer battling, shop, and more. Utilized React, OAuth 2.0, Firebase, and Express + Node JS. Part of a team of five.
 
-**[Gamespace](https://github.com/VNA818-RPI/Gamespace-Copy)**
+**[Degree planner]()**
 
-<img src="https://user-images.githubusercontent.com/33736970/192667004-57847f1e-c8c7-4f61-bc7a-e0a25e267d58.jpeg" width="400">
+<img src="https://github.com/VNA818/VNA818/assets/33736970/56a7e7aa-1cd5-49c2-8813-f4a1eb0b438e" width="400"/>
 
-> Created for a Web systems course, Gamespace is a gaming focused social media website that features posting with images and categories, adding/discovering friends, customizable profiles, and following your favorite games. Made in HTML + CSS + JS, PHP, and MYSQL. Part of a team of three.
+> Taught basic web development by creating a web version of the [overlord degree planner](https://github.com/overlord-bot/degree-planner-api-2.0)
 
 **[Elyra](https://github.com/elyra-ai/elyra)**
 
