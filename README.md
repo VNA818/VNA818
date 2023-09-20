@@ -28,6 +28,7 @@ I specialize in front end development and am most proficient in Javascript speci
   - React
   - React Native
   - Angular
+- CSS
 - Python
   - Django
 - C
@@ -45,7 +46,7 @@ I am currently working as a frontend software engineer for [Agoro](https://www.l
 
 I am also currently the lead software developer for the [Rensselaer Union](https://www.linkedin.com/company/rensselaer-union/mycompany/)
 
-> Leading a team of students in developing applications to improve the Union's suite of software tools. Working with front-end and back-end web technologies including React and Django. Collaborating with student government and administration office staff to learn about business requirements.Managing essential Union projects such as the Club Management System, Union homepage, and Union elections website. Responsible for Interviewing and hiring new candidates.
+> Leading a team of students in developing applications to improve the Union's suite of software tools. Working with front-end and back-end web technologies including React and Django. Collaborating with student government and administration office staff to learn about business requirements. Managing essential Union projects such as the Club Management System, Union homepage, and Union elections website. Responsible for Interviewing and hiring new candidates.
 
 I am also working on developing a mobile application for [The Rajput Association of North America](https://www.rajputra.org/)
 
